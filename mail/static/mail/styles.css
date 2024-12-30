@@ -1,0 +1,28 @@
+textarea {
+    min-height: 400px;
+}
+
+#error {
+    color: red;
+}
+
+#preview {
+    border: solid black 1px;
+    padding: 5px;
+}
+
+#preview:hover {
+    cursor: pointer;
+}
+
+.read {
+    background-color: #E8E8E8;
+}
+
+.unread {
+    background-color: white;
+}
+
+#archive {
+    margin-top: 5px;
+}
